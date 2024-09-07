@@ -54,5 +54,6 @@ int main()
     std::cout << "\n";
 
     foo();
+
     return 0;
 }
