@@ -2,7 +2,7 @@
 #include <string>
 #include <vector>
 
-void foo();
+void foo(); // функция из vector.cpp
 
 int main()
 {
