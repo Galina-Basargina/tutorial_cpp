@@ -16,7 +16,7 @@ cmake --build .
 При этом обычно простейший файл CMakeLists.txt выглядит так:
 
 ```cmake
-cmake_minimum_required(VERSION 3.5)
+cmake_minimum_required(VERSION 3.25)
 
 project(tutorial_cpp)
 
