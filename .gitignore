@@ -32,4 +32,12 @@
 *.app
 
 # CMake
-CMakeLists.txt.user
+CMakeLists.txt.*
+
+# temp dirs
+.vscode
+build
+
+# temp files
+cppstdio.txt
+laba?
