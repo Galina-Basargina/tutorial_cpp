@@ -3,6 +3,7 @@
 #include <vector>
 
 void foo(); // функция из vector.cpp
+void bar(); // функция из thread.cpp
 
 int main()
 {
@@ -54,5 +55,6 @@ int main()
     std::cout << "\n";
 
     foo();
+    bar();
     return 0;
 }
